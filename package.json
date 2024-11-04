@@ -1,0 +1,22 @@
+{
+  "name": "tm-jstool",
+  "version": "1.0.0",
+  "description": "js工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utils",
+    "js",
+    "tool",
+    "tm",
+    "js-tool"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tianmiao/tm-jstool.git"
+  },
+  "author": "tianmiao",
+  "license": "ISC"
+}
